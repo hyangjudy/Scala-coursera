@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/yanghui/Downloads/patmat/src/main/scala/patmat/Huffman.scala:78:27: stable identifier required, but sortedChars.head found.[0m
+[0m[[0m[31merror[0m] [0m[0m        case (sortedChars.head, t)::as => iter(sortedChars.tail, (sortedChars.head, t+1)::as)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

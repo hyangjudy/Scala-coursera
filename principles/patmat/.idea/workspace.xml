@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6278eb8-428b-4a5b-8869-f25ca390045b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b8Xq9IbBnQrwHp5CHm0XgqTEm3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.HuffmanSuite">
+    <configuration name="HuffmanSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanSuite.combine$u0020of$u0020some$u0020leaf$u0020list$u0020$u002815pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="METHOD_NAME" value="combine$u0020of$u0020some$u0020leaf$u0020list$u0020$u002815pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanSuite.make$u0020ordered$u0020leaf$u0020list$u0020for$u0020some$u0020frequency$u0020table$u0020$u002815pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-patmat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="patmat" />
+      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="METHOD_NAME" value="make$u0020ordered$u0020leaf$u0020list$u0020for$u0020some$u0020frequency$u0020table$u0020$u002815pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HuffmanSuite" />
+        <item itemvalue="JUnit.HuffmanSuite.combine$u0020of$u0020some$u0020leaf$u0020list$u0020$u002815pts$u0029" />
+        <item itemvalue="JUnit.HuffmanSuite.make$u0020ordered$u0020leaf$u0020list$u0020for$u0020some$u0020frequency$u0020table$u0020$u002815pts$u0029" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6278eb8-428b-4a5b-8869-f25ca390045b" name="Default Changelist" comment="" />
+      <created>1588014882988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588014882988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588204312702">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/65.23.1375.877@65.23.1375.877" timestamp="1588204312702" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1588309404565">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588309404565" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/56.23.1384.877@56.23.1384.877" timestamp="1588205705184" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/62.23.1378.877@62.23.1378.877" timestamp="1588205324071" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/65.23.1375.877@65.23.1375.877" timestamp="1588204740598" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1588309404564">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588309404564" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/56.23.1384.877@56.23.1384.877" timestamp="1588205705182" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/62.23.1378.877@62.23.1378.877" timestamp="1588205324068" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/65.23.1375.877@65.23.1375.877" timestamp="1588204740596" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1588309404563">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588309404563" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/56.23.1384.877@56.23.1384.877" timestamp="1588205705180" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/62.23.1378.877@62.23.1378.877" timestamp="1588205324059" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/65.23.1375.877@65.23.1375.877" timestamp="1588204740594" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1588309404564">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588309404564" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/56.23.1384.877@56.23.1384.877" timestamp="1588205705183" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/62.23.1378.877@62.23.1378.877" timestamp="1588205324070" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/65.23.1375.877@65.23.1375.877" timestamp="1588204740597" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1588309404567">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588309404567" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1588309404566">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588309404566" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1588309404565">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588309404565" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1588309404566">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588309404566" />
+  </component>
+</project>
